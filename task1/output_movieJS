@@ -1,14 +1,15 @@
-[
-  Movie { title: 'Ponniyin Selvan', studio: 'LYCA', rating: 'PG' },
+Displaying SpiderMan Values 
+ Movie { title: 'Spider Man', studio: 'Sony Pictures', _rating: 'PG' }
+
+Displaying All Movies Which has a rating as PG 
+ [ Movie { title: 'Ponniyin Selvan', studio: 'LYCA', _rating: 'PG' },
   Movie {
     title: 'The Great Indian Kitchen',
     studio: 'KKR',
-    rating: 'PG'
-  },
-  Movie { title: 'Viduthalai ', studio: 'GRASSROOT', rating: 'PG' }
-]
-Movie {
+    _rating: 'PG' } ]
+
+Displaying casinoRoyale Values 
+ Movie {
   title: 'Casino Royale',
   studio: 'Eon Productions',
-  rating: 'PG13'
-}
+  _rating: 'PG13' }
