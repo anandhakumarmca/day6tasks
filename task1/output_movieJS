@@ -1,0 +1,14 @@
+[
+  Movie { title: 'Ponniyin Selvan', studio: 'LYCA', rating: 'PG' },
+  Movie {
+    title: 'The Great Indian Kitchen',
+    studio: 'KKR',
+    rating: 'PG'
+  },
+  Movie { title: 'Viduthalai ', studio: 'GRASSROOT', rating: 'PG' }
+]
+Movie {
+  title: 'Casino Royale',
+  studio: 'Eon Productions',
+  rating: 'PG13'
+}
